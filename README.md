@@ -1,7 +1,4 @@
 # Terraform-Portfolio-Project 
-<p align="center">
-
-</p>
 
 <h1> Client Overview</h1>
 <h3> Client: James Smith, Freelance Web Designer </h3>
